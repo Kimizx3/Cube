@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Cube2.dir\\main.cpp.obj",
+            "outputs": [
+                "E:\\CPPStuff\\Cube2\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Cube2.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

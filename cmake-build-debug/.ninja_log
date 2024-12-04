@@ -1,0 +1,7 @@
+# ninja log v6
+2	241	7549932199873457	CMakeFiles/Cube2.dir/main.cpp.obj.ddi	48656e2a07bcf844
+241	284	7549932202273853	CMakeFiles/Cube2.dir/CXX.dd	6e6811bc16479164
+241	284	7549932202273853	E:/CPPStuff/Cube2/cmake-build-debug/CMakeFiles/Cube2.dir/CXXModules.json	6e6811bc16479164
+241	284	7549932202273853	CMakeFiles/Cube2.dir/main.cpp.obj.modmap	6e6811bc16479164
+289	651	7549932202743454	CMakeFiles/Cube2.dir/main.cpp.obj	c733e58301c9125d
+651	1175	7549932206362839	Cube2.exe	834d0b97b2189b7
